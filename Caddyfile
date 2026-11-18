@@ -1,5 +1,5 @@
 
-student17.wt.thomasjuldo.com {
+http://student17.wt.thomasjuldo.com {
     handle_path /api/* {
         reverse_proxy api:8082
     }
